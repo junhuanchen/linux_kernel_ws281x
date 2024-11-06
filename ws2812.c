@@ -24,7 +24,7 @@ MODULE_DESCRIPTION("Kernel module for x3 using WS2812 LED");
 // #define T1L_NS		(450 - GPIO_SET_VALUE_DELTA)
 
 // FIXME: Hardcoded for now. Will be changed in the future
-#define GPIO_PIN 12
+#define GPIO_PIN 102
 #define LED_COUNT 2
 
 /* High precision nanodelay */
